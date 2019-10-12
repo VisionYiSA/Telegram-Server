@@ -13,3 +13,5 @@ This project is currently being developed and only a small number of API calls w
 Our MTProto implementation works but does not include many security checks necessary yet. Therefore it is not recommended for any other uses other than experimental use.
 
    [Telegram API]: <https://core.telegram.org/api>
+   
+copy from : https://github.com/aykutalparslan/Telegram-Server
